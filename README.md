@@ -299,7 +299,7 @@
     // messages and letter
     const messages = [
       "Happy Birthday sasosktty 💖",
-      "You make everything better ✨",
+      "ana habeb a2olk inn kol sana wnty tyba ya rohy w 3obal snen kterra w tkony bs7a w s3ada w tfdaly maaya daiman aalatol w ashofk ashtarr w angah dr aala elkawkab dh kolo ana aaref inn dh yo3tabar awel birthday lyki nkon feh sawa bs ana bd3y daiman mn kol alby inno ykon elawel w nfdal sawa f kol elly gai yaani our year anniversary aho mn sa3ttt ma 3rfttk w ana hayatti daiman b2tt ahsan kontt elnor elly nawarr hayatti rbna rz2ny byki wnty ahla hdya momken tkon f hayatt hd ana mhma oltt mafesh kalam f eldonia ywsef hoby lyki wla feh kalam y2dar y3abarr aana rob3 elly gowaya lyki ana bhbk awy ya saso bgd ✨",
       "I hope today is full of happiness 🎂",
       "You deserve the whole world 🌍",
       "Click anywhere after the cards start to open your letter 💌"
